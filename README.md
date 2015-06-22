@@ -1,6 +1,6 @@
 # ETL-Tool
 
-This is a desktop application that simulates working of a data warehouse process for a telecommunication company.
+<a href="https://www.dropbox.com/sh/iiwg73q27ia5c4h/AACGd4zQgXkJAMrUYp996IH1a?dl=0"> This is</a> a desktop application that simulates working of a data warehouse process for a telecommunication company.
 
 The basic steps of any datawarehouse are-
 <ul>
@@ -15,7 +15,7 @@ The application also has a couple of mining algorithms embedded in it. currently
 
 -Download an extract Zip<br>
 -Copy it into your netbeans projects directory<br>
--Build, Compile and Run.<b
+-Build, Compile and Run.
 
 Or<br>
 Refer to the Dropbox link in the first line. It has screenshots and built JAR file.
