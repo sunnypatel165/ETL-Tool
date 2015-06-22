@@ -18,7 +18,10 @@ The application also has a couple of mining algorithms embedded in it. currently
 -Build, Compile and Run.
 
 Or<br>
-Refer to the Dropbox link in the first line. It has screenshots and built JAR file.
+Refer to the <a href="https://www.dropbox.com/sh/iiwg73q27ia5c4h/AACGd4zQgXkJAMrUYp996IH1a?dl=0">Dropbox link</a>. It has screenshots and built JAR file.
 
 Or<br>
 Clone the JAR in dist/ETL.jar
+
+<h3>Note for current version:</h3>
+Paths used in the code are not relative/real, they are absolute paths refering to my PC, hence one has to change a few paths before getting it to work.<br> Also, to use SQL and JDBC data stores, necessary things may have to be installed like the drivers for JDBC and the MySQL.
