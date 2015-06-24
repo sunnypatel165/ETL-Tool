@@ -1,10 +1,10 @@
 # ETL-Tool
 
-<a href="https://www.dropbox.com/sh/iiwg73q27ia5c4h/AACGd4zQgXkJAMrUYp996IH1a?dl=0"> This is</a> a desktop application that simulates working of a data warehouse process for a telecommunication company.
+<a href="https://www.dropbox.com/sh/iiwg73q27ia5c4h/AACGd4zQgXkJAMrUYp996IH1a?dl=0"> This is</a> a desktop application that simulates working of a data warehouse process for a telecommunication company, at a very basic level.
 
 The basic steps of any datawarehouse are-
 <ul>
-<li> <b>Extraction</b>- Extracting from various data stores like text, SQL, Access, CSV etv.
+<li> <b>Extraction</b>- Extracting from various data stores like text, SQL, Access, CSV etc.
 <li> <b>Transformation</b>- Transforms data into certain format(uniform)
 <li> <b>Loading</b>- Load the data into a database.
 </ul>
@@ -24,4 +24,5 @@ Or<br>
 Clone the JAR in dist/ETL.jar
 
 <h3>Note for current version:</h3>
-Paths used in the code are not relative/real, they are absolute paths refering to my PC, hence one has to change a few paths before getting it to work.<br> Also, to use SQL and JDBC data stores, necessary things may have to be installed like the drivers for JDBC and the MySQL.
+Paths used in the code are not relative/real, they are absolute paths refering to my PC, hence one has to change a few paths before getting it to work.<br> Also, to use SQL and JDBC data stores, necessary things may have to be installed like the drivers for JDBC and the MySQL.<br>
+Would love pull requests and contributions :)
