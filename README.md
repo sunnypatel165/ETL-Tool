@@ -25,4 +25,4 @@ Clone the JAR in dist/ETL.jar
 
 <h3>Note for current version:</h3>
 Paths used in the code are not relative/real, they are absolute paths refering to my PC, hence one has to change a few paths before getting it to work.<br> Also, to use SQL and JDBC data stores, necessary things may have to be installed like the drivers for JDBC and the MySQL.<br>
-Would love pull requests and contributions :)
+Would love pull requests and contributions! :)
